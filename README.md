@@ -57,7 +57,7 @@
 46.	Проверить изменился ли ваш нативный User-Agent на новый, подставленный.
 47.	Создать свой юзер агент.
 48.	Повторить пункты 45, 46.
-#### Результат работы с параметрами [User-Agent](https://drive.google.com/file/d/1tAaJcBaw0A3-sfLE0J2yh6uSqZvhMGKC/view?usp=sharing)
+#### Результат работы с параметрами [User-Agent](https://drive.google.com/file/d/1MtGJdF6uTURCVCtJE-Yq05u9vecxS0tZ/view?usp=sharing)
 49.	Найти интерфейс для изменения/добавления параметров Throttling.
 50.	Создать свои параметры плохого соединения и проверить как будет загружаться страница.
 #### Результат работы с параметрами [Throttling](https://drive.google.com/file/d/14sLZmxnByzaGuZPCjgudD9c9abaWqM-H/view?usp=sharing)
